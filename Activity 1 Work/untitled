@@ -1,0 +1,18 @@
+<html>
+
+<head>
+<title>
+CLass Verses ID
+    </title>
+
+    <style>
+
+    div {
+    height: 100px;
+    width: 100px;
+    background--color:red;
+    }
+
+    #div1  {
+    background-color: yellow:;
+    }
